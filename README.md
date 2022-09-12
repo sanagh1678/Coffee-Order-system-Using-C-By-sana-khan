@@ -1,0 +1,2 @@
+# Coffee-Order-system-Using-C-By-sana-khan
+I have Created A coffee odering system using C++ Where the user can use the following features: -  users can order a coffee from Espresso, Cappuccino, Latte.. Display the combination of coffees that can be ordered 2. Allow users to choose their coffee type with the preferred add-on. 3. Generate the detailed bill/receipt with the amount to be paid. 4. Allow users to order more than 1 cup and more than 1 variety.
